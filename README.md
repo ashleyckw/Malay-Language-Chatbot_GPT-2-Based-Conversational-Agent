@@ -1,0 +1,2 @@
+# Malay-Language-Chatbot_GPT-2-Based-Conversational-Agent
+This project focuses on developing a Malay Language Chatbot using a fine-tuned GPT-2 model. The chatbot employs GoogleTrans for real-time translation between Malay and English. It is designed to understand and generate contextually coherent responses through NLP techniques, such as tokenization, attention mechanisms, and perplexity scoring.
